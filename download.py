@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 from os import system
 
-system("title Youtube/Pornhub Video Downloader by Guka")
+system("title Youtube Video Downloader by nikdem1")
 
 import youtube_dl
 def main():
-    print("[YT PH] Youtube/Pornhub Video Downloader by Guka") #please dont delete this
+    print("[YT PH] Youtube Video Downloader by nikdem1") #please dont delete this
     print("[!] Auto Loop Script, Use Ctrl + C to Stop")
     directory = input("[*] Folder Directory for Saving : ")
     while True:
